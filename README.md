@@ -33,6 +33,6 @@ pip install 'squidpy[interactive]'
 The demo session on scanpy and squidpy encompasses 
 * an introduction to single-cell RNA-sequencing data analysis 
 * the basic functionality of scanpy and anndata
-* batch effect correction methods (scIB)
-* scanpy extensions for RNA velocity (scVelo)
+* batch effect correction methods ([scIB](https://theislab.github.io/scib-reproducibility/))
+* scanpy extensions for RNA velocity ([scVelo](https://scvelo.readthedocs.io/))
 * spatial data analysis using squidpy  
